@@ -1,3 +1,5 @@
-# RARBG Proxy & Mirror [github]
+# RARBG Proxy & Mirror List [github] [cloudflare]
 
-Github RARBG Mirror: https://rarbg-proxy.github.io
+Github RARBG Mirror List: https://rarbg-proxy.github.io
+
+Cloudflare RARBG Mirror List: https://rarbg.pages.dev
